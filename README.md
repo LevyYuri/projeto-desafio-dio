@@ -1,2 +1,2 @@
-# projeto-desafio-dio
-Projeto de Desafio de Conclusão DIO
+# Projeto de Desafio DIO
+Projeto de Desafio de Conclusão do módulo Git/GitHub DIO
